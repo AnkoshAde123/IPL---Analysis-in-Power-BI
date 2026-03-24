@@ -8,3 +8,5 @@ Indian Premier League analysis in Power BI provides powerful insights into team 
 
 ![Batsman Analysis](https://github.com/AnkoshAde123/IPL---Analysis-in-Power-BI/blob/f5a35cfbfd8bfe055135e3ba79491aaec4aa9683/ipl2.png)
 
+![Boller Analysis](https://github.com/AnkoshAde123/IPL---Analysis-in-Power-BI/blob/96ff6a0ca9565f69a95318b6c3d9010b9f916c7a/ipl3.png)
+
